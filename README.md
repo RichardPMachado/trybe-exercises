@@ -1,6 +1,6 @@
 # Trybe
 
-:rocket: Esse repositório contem os exercícios que eu Richard P Machado [Richard P Machado](https://www.linkedin.com/in/richard-peret-machado/),enquanto estudante na Trybe  [Trybe](https://www.betrybe.com/) estou realizando :rocket:
+:rocket: Esse repositório contem os exercícios que eu [Richard P Machado](https://www.linkedin.com/in/richard-peret-machado/),enquanto estudante na [Trybe](https://www.betrybe.com/) estou realizando :rocket:
 
 "A Trybe é uma escola de desenvolvimento web que tem compromentimento genuino com sucesso profissonal das pessoas estudantes. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais"
 
@@ -25,7 +25,7 @@
 - [ ] 3-4: _HTML SemÃ¢ntico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Bloco 4: IntroduÃ§Ã£o - JavaScript
+/*##### Bloco 4: IntroduÃ§Ã£o - JavaScript
 
 - [ ] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop For_
@@ -224,31 +224,46 @@
 - [ ] 32-4: _Boas prÃ¡ticas na escrita de testes_
 - [ ] 32-3: _[Projeto - API de Blogs]()_
 
-##### Bloco 33: Sockets
 
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
+## Ciência da Computação :hourglass_flowing_sand:
+
+##### Bloco 33: Introdução à Python
+
+- [ ] 33-1: _Introdução a Ciência da Computação_
+- [ ] 33-2: _Sockets - Socket.io_
+- [ ] 33-3: _[Projeto - Webchat]()_
 
 ##### Bloco 34: Projeto
 
 - [ ] 34-1: _[Projeto - Trybeer V2]()_
 
-## CiÃªncia da ComputaÃ§Ã£o :hourglass_flowing_sand:
+##### Bloco 35: Redes e Raspagem de Dados
 
-##### Bloco 35: IntroduÃ§Ã£o - CiÃªncia da ComputaÃ§Ã£o
+- [ ] 35-1: _Arquitetura de redes, ferramentas e segurança_
+- [ ] 35-2: _Raspagem de Dados_
+- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
+- [ ] 35-4: _[Projeto - Tech news]()_
 
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
+##### Bloco 36: Algoritmos
 
-##### Bloco 36: Python
+- [ ] 36-1: _Complexidade de Algoritmos_
+- [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
+- [ ] 36-3: _Algoritmos de ordenação e busca_
+- [ ] 36-4: _[Projeto - Algoritmos]()_
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e ExceÃ§Ãµes_
-- [ ] 35-3: _Entrada e SaÃ­da de dados_
-- [ ] 36-4: _Entrada e SaÃ­da de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
 
-# [...]
+##### Bloco 37: Estrutura de Dados I: Arrays, Hashmaps e Sets
+
+- [ ] 37-1: _Arquitetura de Computadores_
+- [ ] 37-2: _Arrays_
+- [ ] 37-3: _Hashmap e Dict_
+- [ ] 37-4: _Set_
+- [ ] 37-5: _[Projeto - Restaurant Orders]()_
+
+
+##### Bloco 38: Estrutura de Dados II: Listas, Filas e Pilhas
+
+- [ ] 38-1: _Nó de listas Encadeadas_
+- [ ] 38-2: _Pilhas e Filas_
+- [ ] 38-3: _[Projeto - TING - Trybe Is Not Google]()_*/
+
