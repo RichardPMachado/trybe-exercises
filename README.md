@@ -1,6 +1,6 @@
 # Trybe
 
-:rocket: Esse repositório contem os exercícios que eu [Richard P Machado](https://www.linkedin.com/in/richard-peret-machado/),enquanto estudante na [Trybe](https://www.betrybe.com/) estou realizando :rocket:
+:rocket: Esse repositório srá atualizado semanalmente com os exercícios que eu [Richard P Machado](https://www.linkedin.com/in/richard-peret-machado/),enquanto estudante na [Trybe](https://www.betrybe.com/) estou realizando :rocket:
 
 "A Trybe é uma escola de desenvolvimento web que tem compromentimento genuino com sucesso profissonal das pessoas estudantes. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais"
 
