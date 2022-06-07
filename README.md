@@ -4,23 +4,20 @@
 
 "A Trybe é uma escola de desenvolvimento web que tem compromentimento genuino com sucesso profissonal das pessoas estudantes. São mais de 1500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais"
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## [Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos)
 
-##### Bloco 01: Unix & Bash
+##### [Bloco 01: Unix & Bash]()
+- [x] 1-3: _Fundamentos do Desenvolvimento Web_
+- [x] 1-3: _Introdução - Unix & Shell_
+- [x] 1-3: _Unix & Shell- Part 1_
+- [x] 1-4: _Unix & Shell- Part 2_
 
-- [ ] 1-3: _Fundamentos do Desenvolvimento Web_
-- [ ] 1-3: _Introdução - Unix & Shell_
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+##### [Bloco 02: Git, GitHub e Internet]()
+- [x] 2-1: _Git & GitHub - O que é e para que serve_
+- [x] 2-2: _Git & GitHub - Entendendo os comandos_
+- [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 02: Git, GitHub e Internet
-
-- [ ] 2-1: _Git & GitHub - O que é e para que serve_
-- [ ] 2-2: _Git & GitHub - Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
-
-##### Bloco 03 - Introdução à HTML e CSS
-
+##### [Bloco 03 - Introdução à HTML e CSS]()
 - [ ] 3-1: _Introdução - HTML & CSS_
 - [ ] 3-2: _HTML & CSS - Estruturas de página_
 - [ ] 3-3: _HTML & CSS - Primeiros passos em CSS_
@@ -28,8 +25,7 @@
 - [ ] 3-5: _HTML Semântico_
 - [ ] 3-5: _[Projeto - Lessons Learned]()_
 
-##### Bloco 04: Introdução à JavaScript e Lógica de Programação
-
+##### [Bloco 04: Introdução à JavaScript e Lógica de Programação]()
 - [ ] 4-1: _Introdução - JavaScript_
 - [ ] 4-1: _JavaScript - Primeiros passos_
 - [ ] 4-2: _JavaScript - Array e loop For_
@@ -37,7 +33,7 @@
 - [ ] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-#### [Bloco 05: JavaScript: DOM, Eventos e Web Storage]
+#### [Bloco 05: JavaScript: DOM, Eventos e Web Storage]()
 - [ ] 5.1 _JavaScript - DOM e seletores_
 - [ ] 5.2 _JavaScript - Trabalhando com elementos_
 - [ ] 5.3 _JavaScript - Eventos_
