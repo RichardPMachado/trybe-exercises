@@ -1,0 +1,26 @@
+h1{
+    font-family: sans-serif;
+}
+
+body{
+    font-size: 16px;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+}
+ul{
+  font-style: italic;
+  line-height: 25px;
+  text-align: left;
+  text-decoration: solid;
+}
+#marrom{
+  background-color: brown;
+}
+#amarelo{
+  background-color: yellow;
+}
+#vermelho{
+  background-color: red;
+}
