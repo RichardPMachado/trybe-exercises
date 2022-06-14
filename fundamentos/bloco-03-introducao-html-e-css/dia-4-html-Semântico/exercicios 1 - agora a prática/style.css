@@ -1,0 +1,186 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+    background-color: #f7f7f1;
+}
+header{
+    margin:0;
+    background-color: #37405e;
+    text-align: center;
+    padding: 20px 15px;
+    text-transform: uppercase;
+    color: #f7f7f1;
+    font-size: 30px;
+    margin:0;
+}
+/*menu
+===========================================================================*/
+nav{
+    top: 0;
+    background-color: #5ED9FF;
+    position: sticky;
+    margin: 0 auto;
+}
+nav ul{
+    text-align: center;
+    margin: 0 auto;
+    
+
+}
+nav ul a:hover{
+    background-color: #78d2ee;
+    color: yellow;
+
+}
+nav ul li{
+    display: inline;
+    
+}
+nav ul li:first-child a{
+    margin-left: -50px;
+}
+
+nav ul a{
+    display:inline-block;
+    padding: 22px 0px;
+    transition: background-color ease-in-out .8s;
+    transition: color ease-in-out .3s;
+    cursor: pointer;
+    color: #f7f7f1;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    width: 100px;
+}
+
+/* div principal
+=====================================================================================*/
+main{
+    width: 80%;
+    margin: 0px auto;
+    text-align: justify;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase ;
+}
+
+h3{
+    font-size: 30px;
+    padding: 10px;
+    text-transform: uppercase ;
+}
+
+/* article
+=======================================================================================*/
+article {
+    display: block;
+    margin: 0 auto;
+}
+
+article div.container{ 
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background-color: white;
+   
+}
+
+div img{
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#img-inicial{
+    border-radius: 50%;  
+
+}
+
+
+p, h3, ul{
+    margin: 0 auto;
+    text-align: left;
+    width: 80%;
+    
+}
+/* Tabelas
+=======================*/
+table{
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px 20px;
+    color: #f7f7f1;
+
+}
+section.section-table{
+    background-color:#d5f4fc ;
+    padding: 50px;
+}
+table * {
+    border: 2px solid #1D3461;
+    padding: 15px 20px;
+    text-align: center;
+    background-color: #78d2ee;
+}
+table tr td{
+    border: 1px solid #1D3461;
+    background-color: #f7f7f1;
+    color: #1D3461;   
+}
+
+table tr :nth-child(odd){
+    background-color: #1D3461;
+    color: #f7f7f1;
+}
+table tr :nth-child(even){
+    background-color: #78d2ee;
+    color: #f7f7f1;
+}
+
+/*article e seções
+=============================================================================*/
+section{
+    background-color: white;
+    padding: 50px;
+}
+
+
+.section-biblibiograficas{
+    position: static;
+    background-color: #d5f4fc;
+    text-align: center;
+    padding: 50px 50px 50px 0px;
+}
+.section-biblibiograficas ul{
+    display: inline;
+   
+    
+}
+.section-biblibiograficas ul li{
+    display: inline;
+    margin: 50px;
+    
+}
+.bibliograficas{
+    text-align: center;
+    padding-bottom: 50px;
+}
+/* Rodapé
+==================================================================================*/
+footer{
+    display: block;
+    background-color: #37405e;
+    color: white;
+    text-align: center;
+    text-decoration-style: none;
+    padding: 20px;
+}
+
+a{
+    color: #78d2ee;
+}
