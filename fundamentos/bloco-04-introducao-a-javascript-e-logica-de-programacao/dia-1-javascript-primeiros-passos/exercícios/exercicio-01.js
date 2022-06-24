@@ -6,7 +6,7 @@ console.log(`${a} + ${b} = ${a+b}`);
 
 
 console.log("\n----- Subtração -----");
-console.log(`${a} + ${b} = ${a-b}`);
+console.log(`${a} - ${b} = ${a-b}`);
 
 
 console.log("\n----- Multiplacação -----");
