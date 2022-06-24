@@ -15,4 +15,4 @@ for (let index = 4; index < 50; index+=1) {
 }
 maiorNumeroPrimo = numerosPrimos[numerosPrimos.length-1]
 //console.log(numerosPrimos); se quiser todos numeros primos
-console.log(`o maior numero primo de 2 até 50 é ${maiorNumeroPrimo}.`);
+console.log(`o maior numero primo entre 2 e 50 é ${maiorNumeroPrimo}.`);
