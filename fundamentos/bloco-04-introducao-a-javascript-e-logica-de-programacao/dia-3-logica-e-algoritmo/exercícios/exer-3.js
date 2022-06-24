@@ -12,7 +12,7 @@ for (let index = 0; index < array.length; index+=1) {
         maiorPalavra = array[index]
     }
 }
-console.log(`A maior palavra é ${maiorPalavra} e a menor palavra é ${menorPalavra}!`)
+console.log(`A maior palavra é ${maiorPalavra} e a menor palavra é ${menorPalavra}.`)
 // if (menorPalavra[0].length < maiorPalavra[2].length){
 //     console.log(menorPalavra);
 // }
