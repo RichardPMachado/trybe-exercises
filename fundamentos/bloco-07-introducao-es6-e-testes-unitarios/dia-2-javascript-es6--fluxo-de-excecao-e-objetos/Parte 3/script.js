@@ -25,26 +25,26 @@ const addTurnoNoite = (objeto, chave, valor) => {
 }
 console.log(addTurnoNoite(lesson2, 'turno', 'noite'));
 
-// // ======================= exer 2 ===========================================
+// ======================= exer 2 ===========================================
 
-// const listaChaves = (objeto) => {
-//    return Object.keys(objeto);
-// }
-// console.log(listaChaves(lesson3));
+const listaChaves = (objeto) => {
+   return Object.keys(objeto);
+}
+console.log(listaChaves(lesson3));
 
-// // ======================= exer 3 ===========================================
+// ======================= exer 3 ===========================================
 
-// const tamanhoObjeto = (objeto) => {
-//   return Object.keys(objeto).length;
-// }
-// console.log(tamanhoObjeto(lesson1));
+const tamanhoObjeto = (objeto) => {
+  return Object.keys(objeto).length;
+}
+console.log(tamanhoObjeto(lesson1));
 
-// // ======================= exer 4 ===========================================
+// ======================= exer 4 ===========================================
 
-// const valorObjeto = (objeto) => {
-//   return Object.values(objeto);
-// }
-// console.log(valorObjeto(lesson2));
+const valorObjeto = (objeto) => {
+  return Object.values(objeto);
+}
+console.log(valorObjeto(lesson2));
 
 // ======================= exer 5 ===========================================
 
@@ -53,8 +53,8 @@ console.log(allLessons);
 
 // ============ ou ==============
 
-// const allLessons1 = Object.assign({}, {lesson1, lesson2, lesson3})
-// console.log(allLessons1);
+const allLessons1 = Object.assign({}, {lesson1, lesson2, lesson3})
+console.log(allLessons1);
 
 // ======================= exer 6 ===========================================
 
@@ -93,3 +93,38 @@ console.log(verifica(lesson3, 'turno', 'noite'));
 // Output: true,
 console.log(verifica(lesson3, 'materia', 'Maria Clara'));
 // Output: false
+
+// ======================= Bonus 1 ===========================================
+
+const matEstudantes = (objeto) => {
+  let count = 0;
+  const value =  Object.values(objeto);
+  for (let index in value) {
+    const materia = Object.values(value);
+    if (materia[index].materia === 'Matemática') {
+      count += materia[index].numeroEstudantes
+    }
+  }
+  return count;
+}
+console.log(matEstudantes(allLessons));
+
+// ======================= Bonus 2 ===========================================
+
+const criarRelatorio = (objeto, professor) => {
+  let materia = [];
+  const value =  Object.values(objeto);
+  for (let index in value) {
+    const obj = Object.values(value);
+    if (obj[index].professor === professor) {
+      materia.push(obj[index].materia)
+    }
+  }
+  return {
+    professor: professor,
+    aulas: materia,
+    estudantes: matEstudantes(allLessons)
+  }
+}
+
+console.log(criarRelatorio(allLessons, 'Maria Clara'))
