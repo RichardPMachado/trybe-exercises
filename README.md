@@ -18,52 +18,52 @@
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### [Bloco 03 - Introdução à HTML e CSS]()
-- [ ] 3-1: _Introdução - HTML & CSS_
-- [ ] 3-2: _HTML & CSS - Estruturas de página_
-- [ ] 3-3: _HTML & CSS - Primeiros passos em CSS_
-- [ ] 3-4: _HTML & CSS - Seletores e posicionamento_
-- [ ] 3-5: _HTML Semântico_
-- [ ] 3-5: _[Projeto - Lessons Learned]()_
+- [x] 3-1: _Introdução - HTML & CSS_
+- [x] 3-2: _HTML & CSS - Estruturas de página_
+- [x] 3-3: _HTML & CSS - Primeiros passos em CSS_
+- [x] 3-4: _HTML & CSS - Seletores e posicionamento_
+- [x] 3-5: _HTML Semântico_
+- [x] 3-5: _[Projeto - Lessons Learned]()_
 
 ##### [Bloco 04: Introdução à JavaScript e Lógica de Programação]()
-- [ ] 4-1: _Introdução - JavaScript_
-- [ ] 4-1: _JavaScript - Primeiros passos_
-- [ ] 4-2: _JavaScript - Array e loop For_
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-1: _Introdução - JavaScript_
+- [x] 4-1: _JavaScript - Primeiros passos_
+- [x] 4-2: _JavaScript - Array e loop For_
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [x] 4-4: _JavaScript - Objetos e funções_
+- [x] 4-5: _[Projeto - Playground Functions]()_
 
 #### [Bloco 05: JavaScript: DOM, Eventos e Web Storage]()
-- [ ] 5.1 _JavaScript - DOM e seletores_
-- [ ] 5.2 _JavaScript - Trabalhando com elementos_
-- [ ] 5.3 _JavaScript - Eventos_
-- [ ] 5.4 _JavaScript - Web Storage_
-- [ ] 5.5 _Fundamentos - JavaScript - Projetos_
-- [ ] 5.6 _Projeto - Arte com Pixels_
-- [ ] 5.7 [(Bônus) Projeto - Lista de tarefas]()
-- [ ] 5.7 [(Bônus) Projeto - Meme Generator]()
-- [ ] 5.7 [(Bônus) Projeto - Adivinhe a Cor]()
-- [ ] 5.7 [(Bônus) Projeto - Carta Misteriosa]()
+- [x] 5.1 _JavaScript - DOM e seletores_
+- [x] 5.2 _JavaScript - Trabalhando com elementos_
+- [x] 5.3 _JavaScript - Eventos_
+- [x] 5.4 _JavaScript - Web Storage_
+- [x] 5.5 _Fundamentos - JavaScript - Projetos_
+- [x] 5.6 _Projeto - Arte com Pixels_
+- [x] 5.7 [(Bônus) Projeto - Lista de tarefas]()
+- [x] 5.7 [(Bônus) Projeto - Meme Generator]()
+- [x] 5.7 [(Bônus) Projeto - Adivinhe a Cor]()
+- [x] 5.7 [(Bônus) Projeto - Carta Misteriosa]()
 
 #### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo]()
-- [ ] 6.1 _HTML & CSS - Forms_
-- [ ] 6.2 _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6.3 Introdução - CSS Flexbox
-- [ ] 6.3 CSS Flexbox - Parte 1
-- [ ] 6.4 CSS Flexbox - Parte 2
-- [ ] 6.5 CSS Responsivo - Mobile First
-- [ ] [6.6 Projeto - Trybewarts]()
+- [x] 6.1 _HTML & CSS - Forms_
+- [x] 6.2 _Bibliotecas JavaScript e Frameworks CSS_
+- [x] 6.3 Introdução - CSS Flexbox
+- [x] 6.3 CSS Flexbox - Parte 1
+- [x] 6.4 CSS Flexbox - Parte 2
+- [x] 6.5 CSS Responsivo - Mobile First
+- [x] [6.6 Projeto - Trybewarts]()
 
 #### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários]()
-- [ ] 7.1 _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7.2 _JavaScript ES6 - Fluxo de exceção e Objetos_
-- [ ] 7.3 _Primeiros passos em Jest_
-- [ ] [7.4 Projeto - JavaScript Testes Unitários]()
+- [x] 7.1 _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7.2 _JavaScript ES6 - Fluxo de exceção e Objetos_
+- [x] 7.3 _Primeiros passos em Jest_
+- [x] [7.4 Projeto - JavaScript Testes Unitários]()
 
 #### [Bloco 08: Higher Order Functions do JavaScript ES6]()
-- [ ] 8.1 _JavaScript ES6 - Introdução a Higher Order Functions_
-- [ ] 8.2 _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8.3 _JavaScript ES6 - Higher Order Functions - map e filter_
+- [x] 8.1 _JavaScript ES6 - Introdução a Higher Order Functions_
+- [x] 8.2 _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] 8.3 _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] 8.4 _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] 8.5 _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [ ] [8.6 Projeto - Zoo functions]()
