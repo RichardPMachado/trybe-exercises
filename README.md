@@ -70,9 +70,9 @@
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-#### [Bloco 09: JavaScript e Testes Assíncronos}()
-- [ ] 9.1 _Introdução - Front-end_
-- [ ] 9.2 _JavaScript Assíncrono - Fetch API e async/await_
+#### [Bloco 09: JavaScript e Testes Assíncronos](https://github.com/RichardPMachado/trybe-exercises/tree/main/desenvolvimento%20front-end)
+- [x] 9.1 _Introdução - Front-end_
+- [x] 9.2 _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] 9.3 _Jest - Testes Assíncronos_
 - [ ] [9.4 Projeto - Carrinho de Compras]()
 
