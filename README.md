@@ -12,12 +12,12 @@
 - [x] 1-3: _Unix & Shell- Part 1_
 - [x] 1-4: _Unix & Shell- Part 2_
 
-##### [Bloco 02: Git, GitHub e Internet]()
+##### [Bloco 02: Git, GitHub e Internet](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos/bloco-02-git-gitihub-e-internet)
 - [x] 2-1: _Git & GitHub - O que é e para que serve_
 - [x] 2-2: _Git & GitHub - Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### [Bloco 03 - Introdução à HTML e CSS]()
+##### [Bloco 03 - Introdução à HTML e CSS](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos/bloco-03-introducao-html-e-css)
 - [x] 3-1: _Introdução - HTML & CSS_
 - [x] 3-2: _HTML & CSS - Estruturas de página_
 - [x] 3-3: _HTML & CSS - Primeiros passos em CSS_
@@ -25,7 +25,7 @@
 - [x] 3-5: _HTML Semântico_
 - [x] 3-5: _[Projeto - Lessons Learned]()_
 
-##### [Bloco 04: Introdução à JavaScript e Lógica de Programação]()
+##### [Bloco 04: Introdução à JavaScript e Lógica de Programação](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)
 - [x] 4-1: _Introdução - JavaScript_
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
@@ -33,7 +33,7 @@
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _[Projeto - Playground Functions]()_
 
-#### [Bloco 05: JavaScript: DOM, Eventos e Web Storage]()
+#### [Bloco 05: JavaScript: DOM, Eventos e Web Storage](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos/bloco-05-javascript-dom-eventos-e-web-storage/dia-2-javascript-Trabalhando%20-com-elementos/conteudo-na-pratica/removendo-%20elementos)
 - [x] 5.1 _JavaScript - DOM e seletores_
 - [x] 5.2 _JavaScript - Trabalhando com elementos_
 - [x] 5.3 _JavaScript - Eventos_
@@ -45,7 +45,7 @@
 - [x] 5.7 [(Bônus) Projeto - Adivinhe a Cor]()
 - [x] 5.7 [(Bônus) Projeto - Carta Misteriosa]()
 
-#### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo]()
+#### [Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos/bloco-06-forms-flexbox-e-responsivo)
 - [x] 6.1 _HTML & CSS - Forms_
 - [x] 6.2 _Bibliotecas JavaScript e Frameworks CSS_
 - [x] 6.3 Introdução - CSS Flexbox
@@ -54,13 +54,13 @@
 - [x] 6.5 CSS Responsivo - Mobile First
 - [x] [6.6 Projeto - Trybewarts]()
 
-#### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários]()
+#### [Bloco 07: Introdução à JavaScript ES6 e Testes Unitários](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos/bloco-07-introducao-es6-e-testes-unitarios/dia-2-javascript-es6--fluxo-de-excecao-e-objetos)
 - [x] 7.1 _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7.2 _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [x] 7.3 _Primeiros passos em Jest_
 - [x] [7.4 Projeto - JavaScript Testes Unitários]()
 
-#### [Bloco 08: Higher Order Functions do JavaScript ES6]()
+#### [Bloco 08: Higher Order Functions do JavaScript ES6](https://github.com/RichardPMachado/trybe-exercises/tree/main/fundamentos/bloco-08-higher-order-functions-do-javascript-es6)
 - [x] 8.1 _JavaScript ES6 - Introdução a Higher Order Functions_
 - [x] 8.2 _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8.3 _JavaScript ES6 - Higher Order Functions - map e filter_
